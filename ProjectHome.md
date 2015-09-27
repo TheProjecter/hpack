@@ -1,0 +1,1 @@
+"Demonic Uprising" is a community project for Activision's game "Heretic", using GZDoom/ZDoom as sourceport for advanced features and up-to-date graphics and technique.
